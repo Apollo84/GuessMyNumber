@@ -1,0 +1,16 @@
+h1,
+h2,
+h3,
+#guessButton {
+  font-family: "ArcadeClassic", sans-serif;
+}
+
+.secretNumber {
+  border: 4px black solid;
+}
+
+.secretNumberDiv {
+  width: 10%;
+  margin: auto;
+  text-align: center;
+}
